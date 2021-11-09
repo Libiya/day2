@@ -1,0 +1,13 @@
+.rect{
+    height: 200px;
+    width: 300px;
+    background-color:lightgreen;
+  }
+  .circle{
+        height: 100px;
+        width: 100px;
+        background-color: purple;
+        border-radius:100%;
+        border-color: orange;
+        border-width: 15px;
+  }

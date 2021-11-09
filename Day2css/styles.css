@@ -1,0 +1,29 @@
+#grad1 {
+  height: 250px;
+  width: 500px;
+  background-color: red; 
+  background-image: linear-gradient(to right, red , yellow);}
+  #grad2 {
+    height: 250px;
+    width: 500px;
+    background-color: red;
+    background-image: linear-gradient(red, yellow);}
+    #grad3 {
+      height: 250px;
+      width: 500px;
+      background-color: red;
+      background-image: linear-gradient(to bottom right, red, yellow);
+    }
+    #grad4 {
+      height: 250px;
+      width: 500px;
+      background-color: red;
+      background-image: radial-gradient(red, yellow, green);
+    }
+    #grad5 {
+      height: 250px;
+      width: 500px;
+      background-color: red; 
+      background-image: radial-gradient(red 5%, yellow 15%, green 60%);
+    }
+  
